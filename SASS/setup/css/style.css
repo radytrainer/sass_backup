@@ -1,0 +1,21 @@
+* {
+  font-family: cursive;
+}
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+button {
+  width: 20%;
+  padding: 10px;
+  background: orange;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  outline: none;
+  cursor: pointer;
+}
+#resultId {
+  margin-top: 70px;
+  text-align: center;
+}

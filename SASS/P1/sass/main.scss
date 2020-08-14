@@ -1,0 +1,5 @@
+@import "./variable";
+body {
+    background: $text-color;
+    font-size: $font-size;
+}

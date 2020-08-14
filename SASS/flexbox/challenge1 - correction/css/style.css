@@ -1,0 +1,9 @@
+.container-one {
+    /* Make all div are align here... */
+    display: flex;
+}
+
+.container-one div {
+    padding: 10px;
+    border: 1px solid #ccc;
+}

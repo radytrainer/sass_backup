@@ -1,0 +1,27 @@
+.container-one {
+    /* Make all div are align here... */
+    display: flex;
+    /* 
+        use : align-items: [start, end, center]
+    */
+}
+
+.container-one div {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+/* Make box one width are bigger than other */
+/* Make order like this: three, one , two */
+.box-1 {
+    flex: 1;
+    order: 2;
+}
+.box-2 {
+    flex: 2;
+    order: 3;
+}
+.box-3 {
+    flex: 3;
+    order: 1;
+}

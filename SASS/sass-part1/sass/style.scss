@@ -1,0 +1,18 @@
+
+@import "./variable";
+body {
+    background-color:$success;
+}
+.container {
+    width: 900px;
+    margin: 0 auto;
+    display: flex;
+    background: $primary;
+    justify-content: space-between;
+    align-items: center;
+}
+.col-4 {
+    height: 200px;
+    background: $warning;
+    width: 30%;
+}

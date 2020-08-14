@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,IAAI,AAAC,CACD,UAAU,CCFD,IAAI,CDGb,SAAS,CCFD,IAAI,CDGf",
+    "sources": [
+        "../../sass/main.scss",
+        "../../sass/_variable.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}
